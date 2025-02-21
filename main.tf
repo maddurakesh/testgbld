@@ -4,3 +4,4 @@ resource "google_storage_bucket" "sb1" {
     project = "project2-449918"
 
   }
+  #
